@@ -47,5 +47,5 @@
 
 <h3 align="left">📊 Minhas Estatísticas no GitHub:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassmateus&show_icons=true&locale=en" alt="lucassmateus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassmateusdev&show_icons=true&locale=en" alt="lucassmateusdev" />
 </p>
