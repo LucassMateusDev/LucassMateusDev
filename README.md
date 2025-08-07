@@ -14,20 +14,20 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
   </a> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" alt="android" width="50" height="50"/> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="50" height="50"/> 
   </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlite/sqlite-original-wordmark.svg" alt="mssql" width="50" height="50"/> 
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/> 
   </a>
 </p>
 
