@@ -1,47 +1,46 @@
-<h1 align="center">Olá 👋, eu sou Lucas Mateus Specht</h1>
-<h3 align="center">Desenvolvedor Mobile Dart/Flutter e SQL Server</h3>
+<h1 align="center">Olá, eu sou Lucas Mateus Specht! 👋</h1>
+<h3 align="center">Desenvolvedor Mobile | Flutter & Android Nativo</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucassmateusdev&label=Profile%20views&color=0e75b6&style=flat" alt="lucassmateus" /> 
+  <img src="https://komarev.com/ghpvc/?username=lucassmateusdev&label=Visualizações&color=0e75b6&style=flat" alt="lucassmateus" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lucassmateusdev&theme=flat&no-frame=true&margin-w=15" alt="lucassmateus" />
-  </a> 
+  🎓 <strong>Formado em Análise e Desenvolvimento de Sistemas.</strong>
+  <br><br>
+  Atuo principalmente no desenvolvimento mobile, com domínio em <strong>Dart</strong> e <strong>Flutter</strong>, além de conhecimento em <strong>Android nativo</strong> utilizando <strong>Kotlin</strong> e <strong>Jetpack Compose</strong>.
+  <br>
+  Também possuo experiência sólida em bancos de dados <strong>SQL</strong>.
 </p>
 
+---
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
-  </a> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="50" height="50"/> 
-  </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/> 
-  </a>
-</p>
+### 🛠️ Tecnologias & Ferramentas
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/lucas-mateus-specht-06b437237" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-mateus-specht-06b437237" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/9522" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".lucasm21" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="left">📊 Minhas Estatísticas no GitHub:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassmateusdev&show_icons=true&locale=en" alt="lucassmateusdev" />
-</p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/lucas-mateus-specht-06b437237" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucasmateus03.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
